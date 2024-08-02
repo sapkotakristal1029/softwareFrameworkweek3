@@ -6,6 +6,6 @@
 
 - install dependencies npm install
 
--Run the server npm run devstart
+- Run the server npm run devstart
 
 
